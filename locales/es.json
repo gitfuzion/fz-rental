@@ -1,0 +1,49 @@
+{
+    "currency": {
+        "symbol": " $ "
+    },
+    "error": {
+        "not_enough_cash": "No tienes suficiente efectivo para alquilar este vehículo.",
+        "not_enough_money": "No tienes suficiente dinero en el banco para alquilar este vehículo.",
+        "invalid_money_type": "Tipo de dinero inválido. Usa 'cash' o 'bank'.",
+        "not_enough_inventory_space": "No tienes suficiente espacio en el inventario para los papeles del alquiler.",
+        "rental_expired": "Tu alquiler ha expirado.",
+        "vehicle_already_spawned": "Ya tienes un vehículo generado.",
+        "vehicle_not_found": "No tienes ningún vehículo para recuperar.",
+        "vehicle_already_rented": "Ya has alquilado un vehículo."
+    },
+    "success": {
+        "item_recieved": "Has recibido los papeles del alquiler.",
+        "vehicle_recovered": "Has recuperado tu vehículo."
+    },
+    "info": {
+        "remove_money": "Alquiler de vehículo: ",
+        "open_rental_target": "Abrir servicio de alquiler",
+        "open_rental_textui": "Pulsa [E] para abrir el servicio de alquiler"
+    },
+    "rental_menu": {
+        "title": "Servicio de alquiler",
+        "subtitle_vehicles_for_rent": "Vehículos disponibles",
+        "description_vehicles_for_rent": "Explora los vehículos disponibles para alquilar",
+        "subtitle_information": "Información",
+        "description_information": "Pasa el cursor para ver",
+        "subtitle_recover_vehicle": "Recuperar vehículo",
+        "description_recover_vehicle": "Recupera tu vehículo alquilado",
+        "information_label": "Información",
+        "information": "¿Quieres alquilar un vehículo? Abre el menú de Vehículos disponibles, elige tu coche y se te entregará con papeles y una duración establecida. ¿Lo has perdido? Pulsa en Recuperar vehículo y te lo devolverán."
+    },
+    "vehicle_menu": {
+        "title": "Vehículos disponibles",
+        "per_hour": " Por hora"
+    },
+    "rental_time_menu": {
+        "title": "Tiempo de alquiler",
+        "label": "Elige horas de alquiler"
+    },
+    "item_metadata": {
+        "vehicle_name": "Nombre del vehículo",
+        "plate_number": "Matrícula",
+        "owner": "Arrendatario",
+        "expires": "Expira en"
+    }
+}
